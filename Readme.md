@@ -31,10 +31,12 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/vivek
 Here are some example visualizations generated from the analysis:
 
 1. **Total Sales Over Time**
-   ![Total Sales Over Time](images/total_sales_over_time.png)
+   ![Total Sales Over Time](![image](https://github.com/nithinkaturi/Retail-Sales-Analysis/assets/160711110/8afb4cf3-dfdd-44c3-bfbf-e9ef19eee7d2)
+)
 
 2. **Sales Distribution by Category**
-   ![Sales Distribution by Category](images/sales_distribution_by_category.png)
+   ![Sales Distribution by Category](![image](https://github.com/nithinkaturi/Retail-Sales-Analysis/assets/160711110/c4387295-2baf-4fe8-8cf0-1d5725716f39)
+)
 
 ## Requirements
 - Python 3
